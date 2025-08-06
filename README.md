@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sucharitha-nadendla/)
-- 📧 Email: sucharithanadendla@gmail.com
+- 📧 Email: nadendla.sucharitha.09@gmail.com
 
 ---
 
