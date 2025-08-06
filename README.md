@@ -24,7 +24,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Sucharitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=radical)
+![Sucharitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsucharitha&show_icons=true&theme=radical)
 
 ---
 
