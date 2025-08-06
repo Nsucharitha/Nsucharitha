@@ -1,19 +1,22 @@
-## 👋 Hi there, I'm Sucharitha Nadendla!
-
+<h1 align="center">Hi, I'm Sucharitha Nadendla 👋</h1>
+<p align="center">
 🎓 Computer Science graduate | 💻 Data Science & ML Enthusiast | 🌎 Open to opportunities
+</p>
 
 ---
 
-### 🚀 About Me
-- 🔍 I'm passionate about **data analysis**, **machine learning**, and **building scalable solutions**
-- 🤝 Currently working as a **Research & Data Intern** at **NOAA's NCICS**
-- 📊 I love turning raw data into actionable insights through **Python**, **SQL**, and **visual storytelling**
-- 💡 Previously at **Capgemini** as a **Senior Analyst**, where I worked on data pipelines and reporting automation
-- 🧠 Always curious about how **AI** can improve the world
+## 💡 About Me
+
+I’m a data-driven problem solver passionate about leveraging machine learning, NLP, and cloud infrastructure to deliver real-world impact. Currently working at **NCICS** as a Research Intern, building scalable data pipelines and analyzing the intersection of climate and public health. I enjoy working at the intersection of engineering, data science, and societal impact.
+
+📍 Based in Raleigh, NC  
+🎓 Master’s in Computer Science | NC State University  
+🌱 Currently diving deeper into GenAI, LLMs, and scalable ETL architectures
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
+
 - 💻 Languages: Python, SQL, JavaScript, R
 - 📦 ML Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - 📊 BI & Visualization: Power BI, Tableau, Excel
@@ -21,18 +24,50 @@
 - 🗄️ Databases: PostgreSQL, MySQL, Redshift
 - 🔎 NLP & LLMs: Hugging Face, NLTK, BERT
 
----
-
-### 📈 GitHub Stats
-![Sucharitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsucharitha&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sucharitha-nadendla/)
-- 📧 Email: nadendla.sucharitha.09@gmail.com
+## 🚧 Current Projects
+
+- **🌡️ Climate & Health Data Pipeline**  
+  Automating an AWS-based ingestion and scaling pipeline for NOAA’s nClimGrid data and public health datasets. Enables scalable integration and pre-processing for time-series climate-health research.
+
+- **🧠 Zero-Shot NLP Crisis Classifier**  
+  Using transformer-based zero-shot learning to detect topics and emotional cues in parent crisis hotline messages. Built with Hugging Face & BART-based classification.
+
+- **🏘️ Airbnb Price & Rating Predictor**  
+  A predictive system using regression models to estimate Airbnb prices and ratings, factoring in geospatial metadata, room features, and neighborhood trends.
 
 ---
 
-> ✨ “Driven by data. Powered by curiosity. Focused on impact.”
+## ✅ Past Highlights
 
+- **🧠 BrainScan AI**  
+  CNN-based classifier for brain tumor MRI images with 95%+ accuracy. Deployed real-time UI with Streamlit and Flask.
+
+- **📊 BigMart Sales Forecasting**  
+  Built and tuned XGBoost & Lasso regression models. Achieved competitive performance with extensive feature engineering and EDA.
+
+- **🧪 ExperTiza Peer Review System**  
+  Full-stack contributor to an education-focused platform using MongoDB, Node.js, and JWT auth. Built analytics dashboard for instructors.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nsucharitha&show_icons=true&theme=default&count_private=true&hide=prs"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SucharithaNadendla&theme=default"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+- ✉️ **Email**: nadendla.sucharitha.09@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/sucharitha-nadendla](https://linkedin.com/in/sucharitha-nadendla)  
+
+---
+
+*Let’s connect and build something meaningful together!*
