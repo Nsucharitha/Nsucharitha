@@ -51,17 +51,7 @@ I’m a data-driven problem solver passionate about leveraging machine learning,
 - **🧪 ExperTiza Peer Review System**  
   Full-stack contributor to an education-focused platform using MongoDB, Node.js, and JWT auth. Built analytics dashboard for instructors.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nsucharitha&show_icons=true&theme=default&count_private=true&hide=prs"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SucharithaNadendla&theme=default"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
